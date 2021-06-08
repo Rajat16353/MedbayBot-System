@@ -1,0 +1,4726 @@
+{
+    "Acute cholecystitis": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Acne": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Acute lymphoblastic leukaemia": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Abdominal aortic aneurysm": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Abscess": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Acute myeloid leukaemia": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Addison's disease": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Allergic rhinitis": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Alzheimer's disease": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Anaphylaxis": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Ankylosing spondylitis": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Anorexia nervosa": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Anthrax": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Anxiety": {
+        "age_group": [
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Appendicitis": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Apraxia": {
+        "age_group": [
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Arthritis": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Aseptic meningitis": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Asthma": {
+        "age_group": [
+            "0.5-10",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Astigmatism": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Atopic eczema": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Bacterial meningitis": {
+        "age_group": [
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Bacterial vaginosis": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Benign prostate enlargement": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "PRIORITYM"
+        ]
+    },
+    "Beriberi": {
+        "age_group": [
+            "0-0.5",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Bile duct cancer (cholangiocarcinoma)": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Bipolar disorder": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Black Death": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Bladder cancer": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Blood poisoning (sepsis)": {
+        "age_group": [
+            "0-0.5",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Bone cancer": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Botulism": {
+        "age_group": [
+            "0-0.5"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Bowel cancer": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Brain tumours": {
+        "age_group": [
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Breast cancer": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Bronchiectasis": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Bronchitis": {
+        "age_group": [
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Brucellosis": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Bubonic plague": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Bulimia": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Bunion": {
+        "age_group": [
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Calculi": {
+        "age_group": [
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Carcinoid syndrome and carcinoid tumours": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Celiacs disease": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Cellulitis": {
+        "age_group": [
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Cerebral palsy": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Cervical cancer": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Chagas disease": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Chalazion": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Chickenpox": {
+        "age_group": [
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Chilblains": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Chlamydia": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Chlamydia trachomatis": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Cholera": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Chronic fatigue syndrome": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Chronic kidney disease": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Chronic lymphocytic leukaemia": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Chronic myeloid leukaemia": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Chronic obstructive pulmonary disease": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Cirrhosis": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Clostridium difficile": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Coccidioidomycosis": {
+        "age_group": [
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Coeliac disease": {
+        "age_group": [
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Cold sore": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Common cold": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Condyloma": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Congenital heart disease": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Congestive heart disease": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Conjunctivitis": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Coronary heart disease": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Crohn's disease": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Croup": {
+        "age_group": [
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Cystic fibrosis": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Necrotizing Fasciitis": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Neuroblastoma": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Neuroendocrine tumours": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Non-Hodgkin lymphoma": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Non-alcoholic fatty liver disease (NAFLD)": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Obesity": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Obsessive compulsive disorder (OCD)": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Obstructive sleep apnoea": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Oesophageal cancer": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Osteoarthritis": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Osteoporosis": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Osteosarcoma": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Otitis externa": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Ovarian cancer": {
+        "age_group": [
+            "45-65"
+        ],
+        "gender": [
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Ovarian cyst": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Overactive thyroid": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Pancreatic cancer": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Parkinson's disease": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Pelvic inflammatory disease": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Penile cancer": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "PRIORITYM"
+        ]
+    },
+    "Periodontal disease": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Peripheral neuropathy": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Peritonitis": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Pertussis": {
+        "age_group": [
+            "0-0.5",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Pilia": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Pleurisy": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Pneumonia": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Poliomyelitis": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Polymyalgia rheumatica": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Porphyria": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Post-traumatic stress disorder (PTSD)": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Postnatal depression": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Pressure ulcers": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Progeria": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Prostate cancer": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "PRIORITYM"
+        ]
+    },
+    "Prostatitis": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "PRIORITYM"
+        ]
+    },
+    "Psoriasis": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Psoriatic arthritis": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Psychosis": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Pulmonary embolism": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Rabies": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Raynaud's phenomenon": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Reactive arthritis": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Repetitive strain injury": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Restless legs syndrome": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Retinoblastoma": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Rheumatic fever": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Rheumatic heart": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Rheumatoid arthritis": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Rickets": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Rocky Mountain spotted fever": {
+        "age_group": [
+            "0.5-10",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Rosacea": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Rubella": {
+        "age_group": [
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "SARS": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Salmonellosis": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Scabies": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Scarlet fever": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Schizophrenia": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Sciatica": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Scleroderma": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Scoliosis": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Scurvy": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Sepsis": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Septic shock": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Septicemia": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Shin splints": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Shingles": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Sickle cell disease": {
+        "age_group": [
+            "0-0.5"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Sickle-cell anemia": {
+        "age_group": [
+            "0-0.5"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Sinusitis": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Sjogren's syndrome": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Skin cancer (melanoma)": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Slapped cheek syndrome": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Smallpox": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Stevens-Johnson syndrome": {
+        "age_group": [],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Stomach cancer": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Stomach flu": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Stomach ulcer": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Strabismus": {
+        "age_group": [
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Strep throat": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Stroke": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Sunburn": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Swine influenza": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Swollen glands": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Syphilis": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Taeniasis": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Tay-sachs disease": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Tennis elbow": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Teratoma": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Testicular cancer": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "PRIORITYM"
+        ]
+    },
+    "Testicular lumps and swellings": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "PRIORITYM"
+        ]
+    },
+    "Tetanus": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Thalassaemia": {
+        "age_group": [
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Threadworms": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Thrush": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Thrush in men": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Thymoma": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Thyroid cancer": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Tonsillitis": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Tooth decay": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Toothache": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Toxic shock syndrome": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Transient ischaemic attack (tia)": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Trichomoniasis": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Trigeminal neuralgia": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Tuberculosis": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Tularemia": {
+        "age_group": [
+            "0.5-10",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Tumor": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Type 1 diabetes": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Type 2 diabetes": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Typhoid fever": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Typhus": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Ulcerative colitis": {
+        "age_group": [
+            "10-18",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Ulcers": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Underactive thyroid": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Uremia": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Urinary incontinence": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Urinary tract infection (uti)": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Urticaria": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Uveitis": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Vaginal thrush": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Varicella": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Varicose eczema": {
+        "age_group": [
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Varicose veins": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Vasovagal syncope": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Vertigo": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Viral fever": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Viral meningitis": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Vitamin b12 or folate deficiency anaemia": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Vitiligo": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Vulval cancer": {
+        "age_group": [
+            "18-45",
+            "65-150"
+        ],
+        "gender": [
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Warkany syndrome": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Whooping cough": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Wilms\\u2019 tumour": {
+        "age_group": [
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Womb (uterus) cancer": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Yellow fever": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Deep vein thrombosis": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Dementia": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Dengue": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Dental abscess": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Depression": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Dermatitis herpetiformis": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Diarrhoea": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Diphtheria": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Discoid eczema": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Diverticular disease and diverticulitis": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Down's syndrome": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Dysentery": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Dystonia": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Ear infection": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Ebola": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Ebola virus disease": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Ectopic pregnancy": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Encephalitis": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Endometriosis": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Epilepsy": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Erectile dysfunction (impotence)": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "PRIORITYM"
+        ]
+    },
+    "Erectile dysfunctions": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Ewing sarcoma": {
+        "age_group": [
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Febrile seizures": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Fibroids": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Fibromyalgia": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Flu": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10",
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Foetal alcohol syndrome": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Food poisoning": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Fungal nail infection": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "GERD": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Gallbladder cancer": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Gallstones": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Ganglion cyst": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Gangrene": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Gastro-oesophageal reflux disease (GORD)": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Gastroenteritis": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Genital herpes": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Genital warts": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Glandular fever": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Goitre": {
+        "age_group": [
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Gout": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Gum disease": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "HIV": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Haemorrhoids (piles)": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Hand, foot and mouth disease": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE"
+        ]
+    },
+    "Hay fever": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Head and neck cancer": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Head lice and nits": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Heart failure": {
+        "age_group": [
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Hepatitis A": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Hepatitis C": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Hepatitis D": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Hepatitis E": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Hiatus hernia": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "High cholesterol": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Hodgkin lymphoma": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Human papillomavirus": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Huntington's disease": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Hypermetropia": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Hyperopia": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Hyperthyroidism": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Hypoglycaemia (low blood sugar)": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Hypothyroid": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Impetigo": {
+        "age_group": [
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Ingrown toenail": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Insomnia": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Interstitial cystitis": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Iritis": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Iron deficiency anaemia": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Iron-deficiency anemia": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Irritable bowel syndrome": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Irritable bowel syndrome (IBS)": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Jaundice": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10",
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Kaposi's sarcoma": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Keloids": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Kidney infection": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Kidney stone disease": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Kidney stones": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Kwashiorkor": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Labyrinthitis": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Lactose intolerance": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Laryngitis": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Lead poisoning": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Leg cramps": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Legionellosis": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Leprosy": {
+        "age_group": [
+            "10-18",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Leptospirosis": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Leukemia": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Lice": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Lichen planus": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Liver cancer": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Lung cancer": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Lupus": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Lupus erythematosus": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Lyme disease": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Lymphoedema": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Lymphoma": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Mad cow disease": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Malaria": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Malignant brain tumour (cancerous)": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Malnutrition": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Measles": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Melanoma": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Meniere's disease": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Meningitis": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Menopause": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Mesothelioma": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Middle ear infection (otitis media)": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Migraine": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Miscarriage": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Mononucleosis": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Mouth cancer": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Multiple myeloma": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Multiple sclerosis": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Multiple sclerosis (MS)": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Mumps": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Muscular dystrophy": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Myasthenia gravis": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Myopia": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Acute pancreatitis": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Alcohol-related liver disease": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Allergies": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Alzheimer": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Anal cancer": {
+        "age_group": [
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Anotia": {
+        "age_group": [
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Anxiety disorders in children": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Asbestosis": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Asthenia": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Athetosis": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Atrophy": {
+        "age_group": [
+            "0.5-10",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Attention deficit hyperactivity disorder (adhd)": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Black death": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Bowel polyps": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Brain stem death": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Breast cancer (female)": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Breast cancer (male)": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "PRIORITYM"
+        ]
+    },
+    "Campylobacter infection": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Cancer": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Candidiasis": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Catarrh": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Chancroid": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Chavia": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Cherubism": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Chest infection": {
+        "age_group": [
+            "0.5-10",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Chronic pancreatitis": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Circadian rhythm sleep disorder": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Colitis": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Coma": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Coronavirus": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Cough": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Cowpox": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Cretinism": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Cystitis": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Deafblindness": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Dehydration": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Diabetes": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Diabetes mellitus": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "diarrhea": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Dysphagia (swallowing problems)": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Earache": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Emphysema": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Escherichia coli (e. coli) o157": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Eye cancer": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Fever in children": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Flatulence": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Gerd": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Gastro-oesophageal reflux disease (gord)": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Germ cell tumours": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Gonorrhea": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Hiv": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Hairy cell leukaemia": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Hearing loss": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Heart disease": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Hepatitis a": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Hyperglycaemia (high blood sugar)": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Hypotonia": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Idiopathic pulmonary fibrosis": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Indigestion": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Influenza": {
+        "age_group": [
+            "0-0.5",
+            "0.5-10",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Inherited heart conditions": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Kuru": {
+        "age_group": [
+            "0.5-10",
+            "10-18",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Laryngeal (larynx) cancer": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Leishmaniasis": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Listeriosis": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Liver disease": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Liver tumours": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Lymphogranuloma venereum": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Marburg fever": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Morquio syndrome": {
+        "age_group": [
+            "0.5-10",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Motor neurone disease (mnd)": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Mouth ulcer": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Myxedema": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Nasopharyngeal cancer": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Necrotizing fasciitis": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Neoplasm": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Night blindness": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Non-hodgkin lymphoma": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Non-alcoholic fatty liver disease (nafld)": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Non-gonococcal urethritis": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Norovirus": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Nosebleed": {
+        "age_group": [
+            "0.5-10",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Obsessive compulsive disorder (ocd)": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Otitis": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Paget's disease of the nipple": {
+        "age_group": [
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Panic disorder": {
+        "age_group": [
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Paratyphoid fever": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Pelvic organ prolapse": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Plague": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Post-traumatic stress disorder (ptsd)": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Pubic lice": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Ques fever": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Rhabdomyosarcoma": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Rheumatism": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Rift valley fever": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Ringworm and other fungal infections": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Rocky mountain spotted fever": {
+        "age_group": [
+            "0.5-10",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Sars": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Scrapie": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Sexually transmitted infections (stis)": {
+        "age_group": [
+            "10-18",
+            "18-45"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Shigellosis": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Shortness of breath": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Stevens-johnson syndrome": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Stomach ache and abdominal pain": {
+        "age_group": [
+            "10-18",
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    },
+    "Stomach ulcers": {
+        "age_group": [
+            "18-45",
+            "45-65",
+            "65-150"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYF"
+        ]
+    },
+    "Streptococcal infection": {
+        "age_group": [
+            "0.5-10",
+            "10-18"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM",
+            "PRIORITYF"
+        ]
+    },
+    "Tuberculosis (tb)": {
+        "age_group": [
+            "18-45",
+            "45-65"
+        ],
+        "gender": [
+            "MALE",
+            "FEMALE",
+            "PRIORITYM"
+        ]
+    }
+}

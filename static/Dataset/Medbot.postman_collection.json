@@ -1,0 +1,227 @@
+{
+	"info": {
+		"_postman_id": "88bb1e92-221e-4b0d-85d2-eac87a4a9f7a",
+		"name": "Medbot",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "localhost:5000/postMessage",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"text\": \"Male\",\n    \"name\": \"Rajat\",\n    \"age\": 22,\n    \"gender\": null\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:5000/postMessage",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"postMessage"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:5000/postMessage",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"text\": \"fever, headache\",\n    \"name\": null,\n    \"age\": null,\n    \"gender\": null\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:5000/postMessage",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"postMessage"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:5000/postMessage",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"a\", \n    \"age\": \"20\", \n    \"gender\": \"Male\", \n    \"found_symptoms\": null, \n    \"text\": [\"fever, especially in infants and younger children\", \"high fever, up to 105 f (41 c)\"], \n    \"final_symptoms\": null, \n    \"skip_symptoms\": [],\n    \"predict\": false\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:5000/postMessage",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"postMessage"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:5000/postMessage",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{ \n    \"name\": \"a\", \n    \"age\": \"20\", \n    \"gender\": \"Male\",\n    \"text\": [\"fever\", \"headache\", \"fatigue\", \"loss of appetite\", \"shortness of breath\"],\n    \"skip_symptoms\": [\"chills\", \"body_ache\", \"eyelid swelling\"],\n    \"predict\": false\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:5000/postMessage",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"postMessage"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:5000/postMessage",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"text\": [\"fever\", \"headache\", \"fatigue\", \"loss of appetite\", \"shortness of breath\"],\n    \"predict\": true,\n    \"name\": \"Rajat\",\n    \"age\": 22,\n    \"gender\": \"Male\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:5000/postMessage",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"postMessage"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://medbaybot-api.herokuapp.com/postMessage",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"text\": \"My name is Rajat\",\n    \"name\": null,\n    \"age\": null,\n    \"gender\": null\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://medbaybot-api.herokuapp.com/postMessage",
+					"protocol": "https",
+					"host": [
+						"medbaybot-api",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"postMessage"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:5000/postMessage",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"text\": \"\",\n    \"drug_name\": \"crocin\",\n    \"name\": \"a\", \n    \"age\": \"20\", \n    \"gender\": \"Male\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:5000/postMessage",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"postMessage"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:5000/getDiseaseInfo",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"disease_name\": \"Abdominal aortic aneurysm\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:5000/getDiseaseInfo",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"getDiseaseInfo"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
