@@ -1,0 +1,65 @@
+
+<div class="disease-name" fxLayout="row" fxLayoutAlign="center center">
+    <div class=" info-box" fxFlex="100" fxLayoutAlign="center center" *ngIf="diseaseInfo.name">{{diseaseInfo.name}}</div>
+</div>
+<nav class="navbar navbar-default navigation-bar">
+    <div class="container-fluid" >
+        <ul class="nav navbar-nav">
+            <li class="nav-element " [ngClass]="{'active':displayEle === 'overview'}" (click)="displayEle = 'overview'">Overview</li>
+            <li class="nav-element" [ngClass]="{'active':displayEle === 'treatment'}"(click)="displayEle = 'treatment'">Treatment</li>
+            <li class="nav-element" [ngClass]="{'active':displayEle === 'symptoms'}"(click)="displayEle = 'symptoms'">Symptoms</li>
+        </ul>
+    </div>
+</nav>
+<div class="" *ngIf="!diseaseInfo.error">
+    <div class="info-box" *ngIf="displayEle === 'overview'" fxLayout="column" fxLayoutAlign="center center">
+        
+        <div class="f12 w-100" fxLayout="row" fxLayoutAlign="center center">
+            <div class="smalltext" fxFlex="50" fxLayoutAlign="center center" *ngIf="diseaseInfo.smalltext">
+                <fa-icon class="icon" [icon]="faPlus"></fa-icon>{{diseaseInfo.smalltext}}</div>
+            <div class="subtitle" fxFlex="50" fxLayoutAlign="center center" *ngIf="diseaseInfo.subtitle">
+                <fa-icon class="icon" [icon]="faSyringe"></fa-icon> {{diseaseInfo.subtitle}}</div>
+        </div>
+        <div class="disease-overview" fxFlex="100" *ngIf="diseaseInfo.overview">
+            {{showFullOver ? diseaseInfo.overview:diseaseInfo.overview.substring(0,150)}}
+            <span class="more-less" *ngIf="diseaseInfo.overview.length > 150" (click)="showFullOver = !showFullOver">... show {{showFullOver ? 'less' : 'more'}}</span>
+        </div>
+        <div class="f16">
+            <li class="list" *ngFor="let point of diseaseInfo.points">
+                <fa-icon class="icon" [icon]="faCheck"></fa-icon>
+                {{point}}</li>
+        </div>
+    </div>
+    <div class="info-box" *ngIf="diseaseInfo.treatment && displayEle === 'treatment'" fxLayout="column" fxLayoutAlign="start start">
+        <div class="f18" *ngIf="diseaseInfo.treatment.title">
+            <fa-icon class="icon" [icon]="faHospital"></fa-icon>{{diseaseInfo.treatment.title}}
+        </div>
+        <p></p>
+        <div class="f16" *ngIf="diseaseInfo.treatment.content">{{diseaseInfo.treatment.content}}</div>
+        <p></p>
+        <div class="" *ngIf="diseaseInfo.treatment.additional?.length > 0">
+            <li class="list f14" *ngFor="let suggestion of diseaseInfo.treatment.additional">
+                <span class="bold" *ngIf="suggestion.subtitle?.length > 0 && suggestion.text?.length > 0">
+                    {{suggestion.subtitle}} :
+                </span>
+                <span *ngIf="suggestion.subtitle?.length > 0 && suggestion.text?.length > 0">
+                    {{suggestion.text}}
+                </span>
+            </li>
+        </div>
+    </div>
+    <div class="info-box" *ngIf="diseaseInfo.symptoms && displayEle === 'symptoms'">
+        <div class="f18" *ngIf="diseaseInfo.symptoms.content?.length > 0">
+            <fa-icon class="icon" [icon]="faAmbulance"></fa-icon>{{diseaseInfo.symptoms.content}}</div>
+        <p></p>
+        <div class="f18" *ngIf="diseaseInfo.symptoms.subtitle?.length > 0">{{diseaseInfo.symptoms.subtitle}}</div>
+        <p></p>
+        <div class="" *ngFor="let symptom of diseaseInfo.symptoms.symptom_list">
+            <div class="f16" [innerHTML]="symptom | safe: 'html'"></div>
+        </div>
+    </div>
+</div>
+
+<div class="" *ngIf="diseaseInfo.error">
+    Sorry we couldn't find any more data :(
+</div>

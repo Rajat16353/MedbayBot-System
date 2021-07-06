@@ -1,0 +1,12 @@
+<div class="user-input-box" fxLayout="row" >
+    <div fxFlex="5" fxLayoutAlign="center center ">
+        <fa-icon class="icon" [icon]="faMic" size="3x"></fa-icon>
+    </div>
+    <input #textInput class="user-text-area" fxFlex="80" type="text" placeholder="Type something here..." (keyup.enter)=sendUserMessage(textInput.value)>
+    <div fxFlex="5" fxLayoutAlign="center center ">
+        <fa-icon class="icon" [icon]="faEmoji" size="3x"></fa-icon>
+    </div>
+    <div  fxFlex="5" fxLayoutAlign="center center ">
+        <fa-icon class="icon" [icon]="faSend" size="3x" (click)="sendUserMessage(textInput.value)"></fa-icon>
+    </div>
+</div>

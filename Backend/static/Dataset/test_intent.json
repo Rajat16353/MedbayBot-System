@@ -1,0 +1,214 @@
+{
+    "intents": [
+        {
+            "intent": "Greeting",
+            "text": [
+                "Hi"
+            ]
+        },
+        {
+            "intent": "NameResponse",
+            "text": [
+                "Rajat Gupta"
+            ]
+        },
+        {
+            "intent": "CourtesyGreeting",
+            "text": [
+                "How you doing?"
+            ]
+        },
+        {
+            "intent": "CourtesyGreetingResponse",
+            "text": [
+                "You did great, thanks"
+            ]
+        },
+        {
+            "intent": "BotNameQuery",
+            "text": [
+                "What's your name?"
+            ]
+        },
+        {
+            "intent": "TimeQuery",
+            "text": [
+                "tell me time?"
+            ]
+        },
+        {
+            "intent": "DayQuery",
+            "text": [
+                "tell me the Day?"
+            ]
+        },
+        {
+            "intent": "DateQuery",
+            "text": [
+                "tell me date?"
+            ]
+        },
+        {
+            "intent": "Thanks",
+            "text": [
+                "thank you"
+            ]
+        },
+        {
+            "intent": "NotTalking2U",
+            "text": [
+                "I am not talking"
+            ]
+        },
+        {
+            "intent": "UnderstandQuery",
+            "text": [
+                "can you understand what I am saying to you"
+            ]
+        },
+        {
+            "intent": "Shutup",
+            "text": [
+                "Be quiet"
+            ]
+        },
+        {
+            "intent": "Swearing",
+            "text": [
+                "fuck off"
+            ]
+        },
+        {
+            "intent": "GoodBye",
+            "text": [
+                "Bye Bye"
+            ]
+        },
+        {
+            "intent": "CourtesyGoodBye",
+            "text": [
+                "Thanks, bye"
+            ]
+        },
+        {
+            "intent": "WhoAmI",
+            "text": [
+                "Can you see me?"
+            ]
+        },
+        {
+            "intent": "Clever",
+            "text": [
+                "You are not very clever"
+            ]
+        },
+        {
+            "intent": "Jokes",
+            "text": [
+                "Tell me a joke"
+            ]
+        },
+        {
+            "intent": "SelfAware",
+            "text": [
+                "prove you are self-aware"
+            ]
+        },
+        {
+            "intent": "options",
+            "text": [
+                "How can you help me?"
+            ]
+        },
+        {
+            "intent": "enquiry",
+            "text": [
+                "Tell me more about yourself"
+            ]
+        },
+        {
+            "intent": "helpEnquiry",
+            "text": [
+                "Help me!!"
+            ]
+        },
+        {
+            "intent": "Sorry",
+            "text": [
+                "I am sorry"
+            ]
+        },
+        {
+            "intent": "PredictDisease",
+            "text": [
+                "Predict Disease"
+            ]
+        },
+        {
+            "intent": "FindDisease",
+            "text": [
+                "I have abdominal"
+            ]
+        },
+        {
+            "intent": "AdditionalSymptoms",
+            "text": [
+                "get the co-occuring symptoms"
+            ]
+        },
+        {
+            "intent": "AskAboutBot",
+            "text": [
+                "Who are you?"
+            ]
+        },
+        {
+            "intent": "UserQuery",
+            "text": [
+                "Can you tell me something about myslef?"
+            ]
+        },
+        {
+            "intent": "UserData",
+            "text": [
+                "user details not provided"
+            ]
+        },
+        {
+            "intent": "PredictionWithoutData",
+            "text": [
+                "prediction without user details"
+            ]
+        },
+        {
+            "intent": "GetAge",
+            "text": [
+                "I am 12 years old"
+            ]
+        },
+        {
+            "intent": "WelcomeMsg",
+            "text": [
+                ""
+            ]
+        },
+        {
+            "intent": "GenderCheck",
+            "text": [
+                "Male"
+            ]
+        },
+        {
+            "intent": "DiseasePredicted",
+            "text": [
+                "Final Disease prediction done"
+            ]
+        },
+        {
+            "intent": "DrugInfo",
+            "text": [
+                "Can you give me some info about this drug"
+            ]
+        }
+    ]
+}

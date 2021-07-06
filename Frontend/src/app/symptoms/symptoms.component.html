@@ -1,0 +1,8 @@
+<button class="symptom-box text-container" [ngClass]="bgClass" *ngFor="let symptom of displaySymptoms" (mouseenter)="changeBgToBlue($event)" (mouseleave)="changeBgToBlue($event)" (click) ="symptomClicked(symptom,$event)">{{symptom}}</button>
+<div fxLayout="row" class="prev-next" *ngIf="hasSkipList">
+    <span fxFlex="50" fxLayoutAlign="start center" style="cursor: pointer;" (click)="showPrev()"><< prev</span>
+    <span fxFlex="50" fxLayoutAlign="end center" style="cursor: pointer;" (click)="showNext()">next >></span>
+</div>
+<div *ngIf="!hasSkipList" type="button" fxLayoutAlign="center center" class="btn btn-success f20" (click)="sendFinalSymptoms(false)" style="margin-top: 20px;">Done!</div>
+<div *ngIf="hasSkipList" type="button" fxLayoutAlign="center center" class="btn btn-primary f20" (click)="createSkipList(false)" style="margin-top: 20px;">Done! But I have more symptoms</div>
+<div *ngIf="hasSkipList" type="button" fxLayoutAlign="center center" class="btn btn-success f20" (click)="createSkipList(true)" style="margin-top: 20px;">Done! These are all the symptoms I have</div>

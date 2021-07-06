@@ -1,0 +1,65 @@
+<div fxLayout="column"  class=" f20">
+    <div  *ngFor="let message of messages">
+        <div fxLayout="row" [fxLayoutAlign]="(message.owner=='user') ? 'end' : 'start' ">
+            <div fxLayout="column" fxFlex="60">
+                <div fxLayout="row" [fxLayoutAlign]="(message.owner=='user') ? 'end' : 'start' ">
+                    <div *ngIf ="message.message?.length > 0" class="text-container" [ngClass]="{'message-text-user' : message.owner === 'user','message-text-bot' : message.owner === 'bot'}">
+                        {{message.message}}
+                    </div>
+                </div>
+                <ul #drugList class="symptoms-list text-container" fxFlex="100" *ngIf="message.drugList">
+                    <app-drug-info
+                    [drugList]="message.drugList"></app-drug-info>
+                </ul>
+                <ul class="symptoms-list text-container" fxFlex="100" *ngIf="message.symptoms?.length > 0 && botMessageService.username && botMessageService.age && botMessageService.gender">
+                    <app-symptoms
+                    [symptoms] ="message.symptoms"
+                    [hasSkipList] ="false"></app-symptoms>
+                </ul>
+                <ul class="symptoms-list text-container" fxFlex="100" *ngIf="message.finalSymptoms?.length > 0">
+                    <app-symptoms
+                    [symptoms] ="message.finalSymptoms"
+                    [hasSkipList] ="true"></app-symptoms>
+                </ul>
+                <ul class="symptoms-list text-container" fxFlex="100" *ngIf="message.diseaseList?.length > 0">
+                    <div class="" *ngFor="let disease of message.diseaseList" style="margin-top: 20px;">
+                        <div class="symptom-box text-container disease-box" *ngIf="disease.probability > 0" fxLayout="column" >
+                            <div fxFlex="100" fxLayoutAlign="start center" class="">{{disease.disease_name}}</div>
+                            <div fxFlex="100" fxLayout ="column" fxLayoutAlign="center center" class="f14">
+                            <div class="probablity-parent">
+                                <div  class="probablity-bar" [ngStyle]="{'width':disease.probability+'%'}"></div>
+                            </div>
+                            <div fxFlex="100" *ngIf="disease.probability <= 25 ">Likeness: Low</div>
+                            <div fxFlex="100" *ngIf="disease.probability > 25 && disease.probability <= 75 ">Likeness: Medium</div>
+                            <div fxFlex="100" *ngIf="disease.probability > 75 && disease.probability <= 90 ">Likeness: High</div>
+                            <div fxFlex="100" *ngIf="disease.probability > 90  ">Likeness: Very High</div>
+                            </div>
+                            <div fxFlex="100" class="f12">common in age groups: {{disease.common_in_age_groups}} years</div>
+                            <div fxFlex="100" class="f12">{{disease.likely ? 'Common ' : 'Uncommon '}} in your age group</div>
+                            <div fxFlex="100" class="f12">{{disease.priority}}</div>
+                            <div class="" style="float: right;color: gray;" (click)="getDiseaseInfo(disease.disease_name)"> Know more >></div>
+                        </div>
+                    </div>
+                </ul>
+                <ul class = "gender-list text-container" fxFlex="100" fxLayout="column" *ngIf="message.genderQuery?.length > 0">
+                    <button class="btn btn-outline-primary gender-box" fxFlex="100" (click)="setGender(message.genderQuery[0])">{{message.genderQuery[0]}}</button>
+                    <button class="btn btn-outline-primary gender-box" fxFlex="100" (click)="setGender(message.genderQuery[1])">{{message.genderQuery[1]}}</button>
+                </ul>
+                <div class="disease-info-box text-container" fxFlex="100" *ngIf="message.dis_info">
+                    <app-disease-info
+                    [diseaseInfo]="message.dis_info"></app-disease-info>
+                </div>
+                
+            </div>
+        </div>
+        
+    </div>
+    <div fxLayout="row" fxFlex="100" fxLayoutAlign="start" *ngIf="botTyping">
+        <div class="text-container message-text-bot">
+            <span class="loading-dot-one">.</span>
+            <span class="loading-dot-two">.</span>
+            <span class="loading-dot-three">.</span>
+        </div>
+    </div>
+</div>
+<!--  -->

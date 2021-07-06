@@ -1,0 +1,86 @@
+.container{
+    box-sizing: border-box;
+}
+.text-container{
+    border-radius: 10px;
+    margin: 10px 5px 10px  5px;
+    padding: 15px ;
+    width: fit-content;
+}
+.message-text-user{
+    background-color: rgb(3,125,255);
+    color: white;
+    border-bottom-right-radius: 0px;
+}
+.message-text-bot{
+    background-color: lightgrey;
+    border-bottom-left-radius: 0px;
+}
+.symptoms-list{
+    background-color: lightgrey;
+    list-style-type: none;
+}
+.symptom-box{
+    /* cursor: pointer;
+    border: 2px solid black; */
+    min-height: 30px;
+    background-color: white;
+    min-width: 30%;
+}
+.symptom-box :hover{
+    background-color: rgb(220, 249, 250);
+}
+.disease-box{
+    width: 100%;
+}
+.loading-dot-one {
+    -moz-animation: dot 1.5s infinite;
+    -webkit-animation: dot 1.5s infinite;
+    animation: dot 1.5s infinite;
+    -moz-animation-delay: 0.0s;
+    -webkit-animation-delay: 0.0s;
+    animation-delay: 0.0s;
+    opacity: 0;
+  }
+.loading-dot-two {
+    -moz-animation: dot 1.5s infinite;
+    -webkit-animation: dot 1.5s infinite;
+    animation: dot 1.5s infinite;
+    -moz-animation-delay: 0.3s;
+    -webkit-animation-delay: 0.3s;
+    animation-delay: 0.3s;
+    opacity: 0;
+  }
+.loading-dot-three {
+    -moz-animation: dot 1.5s infinite;
+    -webkit-animation: dot 1.5s infinite;
+    animation: dot 1.5s infinite;
+    -moz-animation-delay: 0.6s;
+    -webkit-animation-delay: 0.6s;
+    animation-delay: 0.6s;
+    opacity: 0;
+}
+@keyframes dot {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+.probablity-bar{
+    height: 10px;
+    background-color: green;
+    border-radius: 10px;    
+}
+.probablity-parent{
+    height: 14px;
+    border-radius: 10px;
+    border: 2px solid lightgreen;
+    width: 100%;
+}
+.gender-list{
+    background-color: lightgray;
+}
+.gender-box{
+    margin: 5px;
+}
+.disease-info-box{
+    background-color: lightgray;
+}

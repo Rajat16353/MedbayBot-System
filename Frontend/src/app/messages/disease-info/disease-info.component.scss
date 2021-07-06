@@ -1,0 +1,38 @@
+.info-box{
+    background-color: rgb(250, 247, 241);
+    padding: 10px;
+    border-radius: 10px;
+}
+.disease-name{
+    font-size: 30px;
+    margin: 10px;
+}
+.smalltext{
+    color: gray;
+}
+.subtitle{
+    color:gray;
+}
+.icon{
+    margin: 5px;
+    color: gray;
+}
+.list{
+    list-style-type: none;
+}
+.bold{
+    font-weight: bold;
+}
+.nav-element{
+    margin-right: 5px;
+    min-height: 50px;
+    padding: 10px;
+}
+.active{
+    background-color: rgb(231,231,231);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.navigation-bar{
+    background-color: #FAF7F1;
+}

@@ -1,0 +1,19 @@
+<div class="" *ngIf="drugList.drug_list?.length > 0">
+    <div class="drug-list" *ngFor="let drug of drugList.drug_list" >
+        <button class="drug-box btn btn-default" (click)="getDrugData(drug.link,drug.name)">{{drug.name}}</button>
+    </div>
+</div>
+<div class="" *ngIf="drugList.drug_info.side_effect?.length > 0">
+    {{!showFullSideEffect ? drugList.drug_info.side_effect.substring(0,100) :drugList.drug_info.side_effect}}
+    <span class="more-less" *ngIf="drugList.drug_info.side_effect?.length > 100" (click)="showFullSideEffect = !showFullSideEffect">... show {{showFullSideEffect ? 'less' : 'more'}}</span>
+    <br>
+    <br>
+</div>
+<div class="" *ngIf="drugList.drug_info.uses_benefits?.length >0">
+    {{!showFullUses ? drugList.drug_info.uses_benefits.substring(0,100) :drugList.drug_info.uses_benefits}}
+    <span class="more-less" *ngIf="drugList.drug_info.uses_benefits?.length > 100" (click)="showFullUses = !showFullUses">... show {{showFullUses ? 'less' : 'more'}}</span>
+</div>
+<div class="" *ngIf="!drugList.drug_info.uses_benefits && drugList.drug_info?.length > 0">
+    {{!showFullInfo ? drugList.drug_info.substring(0,100) :drugList.drug_info}}
+    <span class="more-less" *ngIf="drugList.drug_info.length > 100" (click)="showFullInfo = !showFullInfo">... show {{showFullInfo ? 'less' : 'more'}}</span>
+</div>

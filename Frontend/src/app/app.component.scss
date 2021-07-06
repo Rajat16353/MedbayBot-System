@@ -1,0 +1,36 @@
+.chat-window{
+    height: 100vh;
+    /* background-image: url('../assets/chatwindowbg.png'); */
+    background-color: rgb(11, 142, 238);
+}
+#chat-box{
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+    overflow-y: scroll;
+    background-color: white;
+    background-image: url('../assets/robot-white.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+#chat-box::-webkit-scrollbar{
+    display: none;
+}
+.mbbs-heading{
+    margin-top: 15px;
+    height: 90%;
+    background-image: url('../assets/mbbsheading.png');
+    background-repeat: no-repeat;
+}
+.mbbs-avatar{
+    height: 90%;
+    background-image: url('../assets/mbbsavatar-removebg-preview.png');
+    background-size: 35%;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.messages-component{
+    overflow-y: scroll;
+}
+.messages-component::-webkit-scrollbar{
+    display: none;   
+}
